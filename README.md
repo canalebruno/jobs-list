@@ -8,4 +8,4 @@ Using the following technologies
 
 ## 💻 About
 
-Website using an API to show some jobs. You can search by company and filter by the jobs published in last 7 days. You can check in https://mypogotrades.vercel.app/
+Website using an API to show some jobs. You can search by company and filter by the jobs published in last 7 days. You can check in https://jobs-list-omega.vercel.app/test/jobs
