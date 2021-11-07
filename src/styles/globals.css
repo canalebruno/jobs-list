@@ -1,0 +1,24 @@
+:root {
+  --gray: rgb(51, 51, 51);
+  --light-gray: rgba(51, 51, 51, 0.8);
+  --blue: #3174ee;
+  --dark-blue: #2c68d6;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  max-width: 100vw;
+  border-top: 3rem solid var(--gray);
+  padding: 1rem 0 3rem 0;
+}
+
+button {
+  cursor: pointer;
+  transition: background-color 0.1s;
+}
